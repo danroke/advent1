@@ -1,6 +1,3 @@
-# import
-# 
-
 List_A = []
 List_B = []
 Total_distance = 0
